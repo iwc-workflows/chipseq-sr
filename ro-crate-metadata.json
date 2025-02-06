@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2024-09-24T13:31:18.155816",
+            "datePublished": "2025-02-06T09:33:11.718220",
             "hasPart": [
                 {
                     "@id": "chipseq-sr.ga"
@@ -72,7 +72,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/chipseq-sr",
-            "version": "0.12"
+            "version": "0.13"
         },
         {
             "@id": "#galaxy",
